@@ -1,0 +1,29 @@
+site_name: Simon Glomb
+site_url: https://simonglomb.github.io/
+theme:
+  name: material
+  icon:
+    logo: fontawesome/solid/o
+  favicon: assets/1x1.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.instant
+    - navigation.path
+  palette:
+    scheme: slate
+    primary: grey
+    accent: white
+nav:
+  - index.md
+  - research.md
+  - education.md
+  - projects.md
+  - cv.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SimonGlomb
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/simon-glomb-aa63351a3
