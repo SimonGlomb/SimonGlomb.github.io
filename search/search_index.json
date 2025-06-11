@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"About me","text":""},{"location":"cv/","title":"CV","text":""},{"location":"projects/","title":"Projects","text":""},{"location":"research/","title":"Research","text":"<p>Scholar profile</p>"}]}
